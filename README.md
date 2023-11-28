@@ -1,2 +1,2 @@
 # freenove_RaspPicoW
-Freenove bok oppgaver
+Freenove bok oppgaver hello
